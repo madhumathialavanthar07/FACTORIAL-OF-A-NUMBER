@@ -54,10 +54,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+![mathi mpmc](https://github.com/user-attachments/assets/4a708374-afbc-44c9-a2d4-d6844acf5ee0)
+
 
 ---
 MANUAL CALCULATIONS
+![WhatsApp Image 2025-11-11 at 22 46 06_6c0b594b](https://github.com/user-attachments/assets/2ff9ad7c-9ef1-4da3-b300-be4f1a0f94fe)
+
 
 ---
 
