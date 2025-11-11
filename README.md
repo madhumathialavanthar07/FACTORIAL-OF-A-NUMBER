@@ -53,7 +53,6 @@ END
 
 ```
 OUTPUT
-
 ![mathi mpmc](https://github.com/user-attachments/assets/4a708374-afbc-44c9-a2d4-d6844acf5ee0)
 
 
